@@ -1,0 +1,9 @@
+body {
+  background-color: #300032 !important;
+}
+.scoreboard {
+  color: #e6e6e8 !important;
+}
+.clock {
+  font-family: 'Play', sans-serif;
+}
